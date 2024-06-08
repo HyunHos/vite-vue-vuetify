@@ -1,4 +1,7 @@
 {
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
   /**
    * Controls whether suggestions should be accepted on commit characters.
    * For example, in JavaScript, the semi-colon (;) can be a commit character that accepts a suggestion and types that character.

@@ -1,3 +1,14 @@
 {
-  "recommendations": ["Vue.volar", "formulahendry.auto-rename-tag"]
+  "recommendations": [
+    "vue.volar",
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "streetsidesoftware.code-spell-checker",
+    "kamikillerto.vscode-colorize",
+    "ibm.output-colorizer",
+    "seatonjiang.gitmoji-vscode",
+    "bradgashler.htmltagwrap",
+    "rangav.vscode-thunder-client"
+  ]
 }
